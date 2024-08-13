@@ -19,7 +19,7 @@ The cornerstone of Smart Priorities is its smart sorting feature. This advanced 
 # Get Started
 At this point, the application can be opened and run from NetBeans by following these steps: 
 1. Download the files from the repository.
-2. Install the MySQL database "taskmanager" from the src\database folder.
+2. Install the MySQL database "taskmanager" from the \database folder.
 3. Run the project in NetBeans.
 
 The status is currently logged in with user ID 1, so it loads and sorts the existing tasks from the database in the to-do list on the right panel.
