@@ -198,7 +198,6 @@ public class TaskManager extends javax.swing.JFrame {
                 signInForm.setLocationRelativeTo(null);
             } else {
                 saveTaskData(); // Save task data if user is signed in
-                loadSortTasks(currentUserId);
             }
         });
 
